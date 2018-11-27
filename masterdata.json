@@ -275,37 +275,37 @@
 		{
 			"Typecode": "NFB",
 			"TypeDescription": "NON-FEDEX BROKER"
-		}
+		},
 
 	    {
 			"Typecode": "OC",
 			"TypeDescription": "ONLY CLIENT"
-		}
+		},
 
 		{
 			"Typecode": "TX",
 			"TypeDescription": "TRADEX"
-		}
+		},
 
 		{
 			"Typecode": "FTA",
 			"TypeDescription": "FREE TRADE AGREEMENT"
-		}
+		},
 
 		 {
 			"Typecode": "DD",
 			"TypeDescription": "DIRECT DEBIT"
-		}
+		},
 	
 	    {
 			"Typecode": "GST",
 			"TypeDescription": "GST DEFERRAL"
-		}
+		},
 
 		{
 			"Typecode": "CSD",
 			"TypeDescription": "CLIENT SOLUTION DOCUMENT"
-		}
+		},
 
 		{
 			"Typecode": "PSS",
@@ -316,7 +316,7 @@
 		{
 			"NotifyT ype Name": "Arrival Notification",
 			"Template": "Contact Arrival Notice"
-		}
+		},
 	
         {
 			"NotifyT ype Name": "Contact Notification",
@@ -325,17 +325,17 @@
 				"Personal Customs value",
 				"Chemical customs value"
 			]
-		} 
+		},
 		
 		{
 			"NotifyT ype Name": "DutyTax Notification",
 			"Template": " Duty tax Notification"
-		} 
+		}, 
 		
 		{
 			"NotifyT ype Name": "IC Notification",
 			"Template": " IC Notification"
-		} 
+		}, 
 		
 		{
 			"NotifyT ype Name": "Rev Ops Contact Notification",
