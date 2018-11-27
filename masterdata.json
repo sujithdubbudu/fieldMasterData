@@ -341,7 +341,7 @@
 			"NotifyT ype Name": "Rev Ops Contact Notification",
 			"Template": [
 				"Rev Ops Invoicing",
-				"Rev Opts Credit Collection",
+				"Rev Opts Credit Collection"
 			]
 		}
 	],
