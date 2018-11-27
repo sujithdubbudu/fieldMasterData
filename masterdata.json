@@ -1,9 +1,9 @@
 {
-	"Role": [
+	"role": [
 		"Importer/Consignee",
 		"shipper"
 	],
-	"Country": [
+	"country": [
 		"AD",
 		"AE",
 		"AF",
@@ -273,54 +273,54 @@
 	],
 	"INSTRUCTION": [
 		{
-			"Typecode": "NFB",
-			"TypeDescription": "NON-FEDEX BROKER"
+			"typeCode": "NFB",
+			"typeDescription": "NON-FEDEX BROKER"
 		},
 
 	    {
-			"Typecode": "OC",
-			"TypeDescription": "ONLY CLIENT"
+			"typeCode": "OC",
+			"typeDescription": "ONLY CLIENT"
 		},
 
 		{
-			"Typecode": "TX",
+			"typeCode": "TX",
 			"TypeDescription": "TRADEX"
 		},
 
 		{
-			"Typecode": "FTA",
-			"TypeDescription": "FREE TRADE AGREEMENT"
+			"typeCode": "FTA",
+			"typeDescription": "FREE TRADE AGREEMENT"
 		},
 
 		 {
-			"Typecode": "DD",
-			"TypeDescription": "DIRECT DEBIT"
+			"typeCode": "DD",
+			"typeDescription": "DIRECT DEBIT"
 		},
 	
 	    {
-			"Typecode": "GST",
-			"TypeDescription": "GST DEFERRAL"
+			"typeCode": "GST",
+			"typeDescription": "GST DEFERRAL"
 		},
 
 		{
-			"Typecode": "CSD",
-			"TypeDescription": "CLIENT SOLUTION DOCUMENT"
+			"typeCode": "CSD",
+			"typeDescription": "CLIENT SOLUTION DOCUMENT"
 		},
 
 		{
-			"Typecode": "PSS",
-			"TypeDescription": "POST SALES SOLUTIONS"
+			"typeCode": "PSS",
+			"typeDescription": "POST SALES SOLUTIONS"
 		}
 	],
 	"NOTIFICATION": [
 		{
-			"NotifyT ype Name": "Arrival Notification",
-			"Template": "Contact Arrival Notice"
+			"notifyTypeNameotifyTypeName": "Arrival Notification",
+			"template": "Contact Arrival Notice"
 		},
 	
         {
-			"NotifyT ype Name": "Contact Notification",
-			"Template": [
+			"notifyTypeName": "Contact Notification",
+			"template": [
 				"Customs Document Return",
 				"Personal Customs value",
 				"Chemical customs value"
@@ -328,42 +328,42 @@
 		},
 		
 		{
-			"NotifyT ype Name": "DutyTax Notification",
-			"Template": " Duty tax Notification"
+			"notifyTypeName": "DutyTax Notification",
+			"template": " Duty tax Notification"
 		}, 
 		
 		{
-			"NotifyT ype Name": "IC Notification",
-			"Template": " IC Notification"
+			"notifyTypeName": "IC Notification",
+			"template": " IC Notification"
 		}, 
 		
 		{
-			"NotifyT ype Name": "Rev Ops Contact Notification",
-			"Template": [
+			"notifyTypeName": "Rev Ops Contact Notification",
+			"template": [
 				"Rev Ops Invoicing",
 				"Rev Opts Credit Collection"
 			]
 		}
 	],
-	"METHOD": [
+	"method": [
 		"EMAIL",
 		"FAX"
 	],
-	"PAYMENT TYPE": [
+	"paymentType": [
 		"CASH",
 		"CREDIT CARDS",
 		"DIRECT FEDEX ACCOUNT",
 		"ACS DIRECT DEBIT "
 	],
-	"IMAGE": [
+	"image": [
 		{
-			"Location": [
+			"location": [
 				"SYD",
 				"MEL"
 			]
 		},
 		{
-			"Document Type": [
+			"documentType": [
 				"CI",
 				"GAWB",
 				"AWB",
