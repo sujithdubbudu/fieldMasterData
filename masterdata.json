@@ -314,7 +314,7 @@
 	],
 	"NOTIFICATION": [
 		{
-			"notifyTypeNameotifyTypeName": "Arrival Notification",
+			"notifyTypeName": "Arrival Notification",
 			"template": "Contact Arrival Notice"
 		},
 	
