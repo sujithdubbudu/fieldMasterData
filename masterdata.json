@@ -3,6 +3,12 @@
 		"Importer/Consignee",
 		"shipper"
 	],
+	"customerType":[
+			"Company main",
+			"Company Division",
+			"Individual"
+			],
+	
 	"country": [
 		"AD",
 		"AE",
