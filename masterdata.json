@@ -271,7 +271,7 @@
 		"ZW",
 		"ZZ"
 	],
-	"INSTRUCTION": [
+	"instruction": [
 		{
 			"typeCode": "NFB",
 			"typeDescription": "NON-FEDEX BROKER"
@@ -312,7 +312,7 @@
 			"typeDescription": "POST SALES SOLUTIONS"
 		}
 	],
-	"NOTIFICATION": [
+	"notification": [
 		{
 			"notifyTypeName": "Arrival Notification",
 			"template": "Contact Arrival Notice"
