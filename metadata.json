@@ -286,7 +286,7 @@
 
 
 {
-"fieldId": 15,
+"fieldId": 16,
 "fieldName":"cac",
 "fieldDescription":"Cac",
 "fieldGroupId":"countrySpecificFields",
@@ -306,7 +306,7 @@
 
 
 {
-"fieldId": 16,
+"fieldId": 17,
 "fieldName":"bsb",
 "fieldDescription":"Bsb",
 "fieldGroupId":"countrySpecificFields",
@@ -324,7 +324,7 @@
 },
 
 {
-"fieldId": 17,
+"fieldId": 18,
 "fieldName":"nameLocal",
 "fieldDescription":"NameLocal",
 "fieldGroupId":"localLanguage",
@@ -343,7 +343,7 @@
 
 
 {
-"fieldId": 18,
+"fieldId": 19,
 "fieldName":"addressLocal",
 "fieldDescription":"AddressLocal",
 "fieldGroupId":"localLanguage",
@@ -361,7 +361,7 @@
 },
 
 {
-"fieldId": 19,
+"fieldId": 20,
 "fieldName":"deptLocal",
 "fieldDescription":"DeptLocal",
 "fieldGroupId":"localLanguage",
@@ -380,7 +380,7 @@
 
  
 {
-"fieldId": 20,
+"fieldId": 21,
 "fieldName":"fedexAccount",
 "fieldDescription":"FedexAccount",
 "fieldGroupId":"billingData",
@@ -397,7 +397,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 21,
+"fieldId": 22,
 "fieldName":"comments",
 "fieldDescription":"Comments",
 "fieldGroupId":"billingData",
@@ -414,9 +414,9 @@
 "defaultValue":""
 },
 {
-"fieldId": 22,
+"fieldId": 23,
 "fieldName":"creditStatus",
-"fieldDescription":"CreditStatusreditStatus",
+"fieldDescription":"CreditStatus",
 "fieldGroupId":"billingData",
 "fieldControlType":"textbox",
 "pageId":1,
@@ -431,7 +431,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 23,
+"fieldId": 24,
 "fieldName":"paymentType",
 "fieldDescription":"PaymentType",
 "fieldGroupId":"billingData",
@@ -448,9 +448,9 @@
 "defaultValue":""
 },
 {
-"fieldId": 24,
+"fieldId": 25,
 "fieldName":"bankRecFlag",
-"fieldDescription":"BankRecFlagankRecFlag",
+"fieldDescription":"BankRecFlag",
 "fieldGroupId":"billingData",
 "fieldControlType":"textbox",
 "pageId":1,
@@ -465,7 +465,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 25,
+"fieldId": 26,
 "fieldName":"defaultBilling",
 "fieldDescription":"DefaultBilling",
 "fieldGroupId":"contactData",
@@ -482,7 +482,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 26,
+"fieldId": 27,
 "fieldName":"name",
 "fieldDescription":"Name",
 "fieldGroupId":"contactData",
@@ -499,7 +499,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 27,
+"fieldId": 28,
 "fieldName":"dept",
 "fieldDescription":"Dept",
 "fieldGroupId":"contactData",
@@ -516,7 +516,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 28,
+"fieldId": 29,
 "fieldName":"phone",
 "fieldDescription":"Phone",
 "fieldGroupId":"contactData",
@@ -533,7 +533,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 29,
+"fieldId": 30,
 "fieldName":"ext",
 "fieldDescription":"Ext",
 "fieldGroupId":"contactData",
@@ -551,7 +551,7 @@
 },
 
 {
-"fieldId": 30,
+"fieldId": 31,
 "fieldName":"mobile",
 "fieldDescription":"Mobile",
 "fieldGroupId":"contactData",
@@ -568,7 +568,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 31,
+"fieldId": 32,
 "fieldName":"fax",
 "fieldDescription":"Fax",
 "fieldGroupId":"contactData",
@@ -585,7 +585,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 32,
+"fieldId": 33,
 "fieldName":"email",
 "fieldDescription":"Email",
 "fieldGroupId":"contactData",
@@ -602,7 +602,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 33,
+"fieldId": 34,
 "fieldName":"no",
 "fieldDescription":"No",
 "fieldGroupId":"imageData",
@@ -619,7 +619,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 34,
+"fieldId": 35,
 "fieldName":"source",
 "fieldDescription":"Source",
 "fieldGroupId":"imageData",
@@ -636,11 +636,11 @@
 "defaultValue":""
 },
 {
-"fieldId": 35,
+"fieldId": 36,
 "fieldName":"docType",
 "fieldDescription":"DocType",
 "fieldGroupId":"imageData",
-"fieldControlType":"textbox",
+"fieldControlType":"dropDown",
 "pageId":1,
 "pageName":"customerProfile",
 "isEnable":"true",
@@ -653,7 +653,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 36,
+"fieldId": 37,
 "fieldName":"status",
 "fieldDescription":"Status",
 "fieldGroupId":"imageData",
@@ -670,7 +670,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 37,
+"fieldId": 38,
 "fieldName":"annotation",
 "fieldDescription":"Annotation",
 "fieldGroupId":"imageData",
@@ -687,7 +687,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 38,
+"fieldId": 39,
 "fieldName":"created",
 "fieldDescription":"Created",
 "fieldGroupId":"imageData",
@@ -704,7 +704,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 39,
+"fieldId": 40,
 "fieldName":"contactValid",
 "fieldDescription":"contactValid",
 "fieldGroupId":"imageData",
@@ -721,7 +721,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 40,
+"fieldId": 41,
 "fieldName":"customsValid",
 "fieldDescription":"CustomsValid",
 "fieldGroupId":"imageData",
@@ -738,7 +738,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 41,
+"fieldId": 42,
 "fieldName":"action",
 "fieldDescription":"Action",
 "fieldGroupId":"imageData",
@@ -756,7 +756,7 @@
 },
 
 {
-"fieldId": 42,
+"fieldId": 43,
 "fieldName":"expiry",
 "fieldDescription":"Expiry",
 "fieldGroupId":"imageData",
@@ -773,7 +773,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 43,
+"fieldId": 44,
 "fieldName":"typeCode",
 "fieldDescription":"TypeCode",
 "fieldGroupId":"instructionData",
@@ -790,7 +790,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 44,
+"fieldId": 45,
 "fieldName":"typeDesc",
 "fieldDescription":"TypeDesc",
 "fieldGroupId":"instructionData",
@@ -807,7 +807,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 45,
+"fieldId": 46,
 "fieldName":"comemnt",
 "fieldDescription":"Comemnt",
 "fieldGroupId":"instructionData",
@@ -824,7 +824,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 46,
+"fieldId": 47,
 "fieldName":"notifyTypeName",
 "fieldDescription":"NotifyTypeName",
 "fieldGroupId":"notificationData",
@@ -841,7 +841,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 47,
+"fieldId": 48,
 "fieldName":"template",
 "fieldDescription":"Template",
 "fieldGroupId":"notificationData",
@@ -858,7 +858,7 @@
 "defaultValue":""
 },
 {
-"fieldId": 48,
+"fieldId": 49,
 "fieldName":"method",
 "fieldDescription":"Method",
 "fieldGroupId":"notificationData",
@@ -875,26 +875,9 @@
 "defaultValue":""
 },
 {
-"fieldId": 49,
+"fieldId": 50,
 "fieldName":"primaryContact",
 "fieldDescription":"PrimaryContact",
-"fieldGroupId":"notificationData",
-"fieldControlType":"textbox",
-"pageId":1,
-"pageName":"customerProfile",
-"isEnable":"true",
-"isVisible":"true",
-"isMandatory":"false",
-"countryCode":"SNG",
-"gateWay":"",
-"validation":"",
-"dataType":"string",
-"defaultValue":""
-},
-{
-"fieldId": 50,
-"fieldName":billContact",
-"fieldDescription":"BillContact",
 "fieldGroupId":"notificationData",
 "fieldControlType":"textbox",
 "pageId":1,
@@ -910,8 +893,8 @@
 },
 {
 "fieldId": 51,
-"fieldName":"primaryContact",
-"fieldDescription":"PrimaryContact",
+"fieldName":"billContact",
+"fieldDescription":"BillContact",
 "fieldGroupId":"notificationData",
 "fieldControlType":"textbox",
 "pageId":1,
@@ -924,7 +907,8 @@
 "validation":"",
 "dataType":"string",
 "defaultValue":""
-}
+},
+
 
  
 
