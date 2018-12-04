@@ -290,7 +290,7 @@
 
 		{
 			"typeCode": "TX",
-			"TypeDescription": "TRADEX"
+			"typeDescription": "TRADEX"
 		},
 
 		{
@@ -321,7 +321,7 @@
 	"notification": [
 		{
 			"notifyTypeName": "Arrival Notification",
-			"template": "Contact Arrival Notice"
+			"template": ["Contact Arrival Notice"]
 		},
 	
         {
@@ -335,12 +335,12 @@
 		
 		{
 			"notifyTypeName": "DutyTax Notification",
-			"template": " Duty tax Notification"
+			"template": ["Duty tax Notification"]
 		}, 
 		
 		{
 			"notifyTypeName": "IC Notification",
-			"template": " IC Notification"
+			"template": ["IC Notification"]
 		}, 
 		
 		{
