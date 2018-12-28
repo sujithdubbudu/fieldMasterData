@@ -1122,7 +1122,43 @@
             "validation": null,
             "dataType": "string",
             "defaultValue": null
-        }
+        },
+		  {
+            "fieldId": 63,
+            "fieldName": "role",
+            "fieldDescription": "Role",
+            "fieldGroupId": 8,
+            "fieldControlType": "dropdown",
+            "pageId": 1,
+            "pageName": "CustomerProfile",
+            "isEnable": 1,
+			"isUpdatability":0,
+            "isVisible": 1,
+            "isMandatory": 1,
+            "countryCode": "SNG",
+            "gateWays": null,
+            "validation": null,
+            "dataType": "string",
+            "defaultValue": null
+        },
+			  {
+            "fieldId": 64,
+            "fieldName": "custType",
+            "fieldDescription": "CustomerType",
+            "fieldGroupId": 8,
+            "fieldControlType": "dropdown",
+            "pageId": 1,
+            "pageName": "CustomerProfile",
+            "isEnable": 1,
+			"isUpdatability":1,
+            "isVisible": 1,
+            "isMandatory": 1,
+            "countryCode": "SNG",
+            "gateWays": null,
+            "validation": null,
+            "dataType": "string",
+            "defaultValue": null
+        },
 		
     ]
 }
